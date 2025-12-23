@@ -1,0 +1,49 @@
+.formochka {
+    border: 10px;
+    padding: 10px;
+    max-width: 400px;
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 18px;
+}
+
+h3 {
+    margin: 5px 0px 5px 0px;
+}
+.form-group {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#email, #age, #phone, #name {
+    display: block;
+    width: 80%;  
+    box-sizing: border-box;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    height: 30px;
+    padding: 10px;
+}
+
+#massage {
+    display: block;
+    resize: vertical;
+    width: 79%;
+    border-radius: 5px;
+    max-height: 80px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+#rules {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+button {
+    display: block;
+    background-color: rgb(245, 183, 224);
+    border: none;
+    outline: none; 
+    box-shadow: none; 
+    margin: 10px;
+}
